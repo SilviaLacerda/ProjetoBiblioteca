@@ -1,6 +1,5 @@
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
@@ -17,7 +16,6 @@ C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\M
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
-C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
@@ -51,3 +49,5 @@ C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\s
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\scopedcss\bundle\Biblioteca.styles.css
